@@ -37,7 +37,7 @@
 <div align="left"> 
     <tr>
         <div align="left">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolgadirek&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" style="width: 30%"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolgadirek&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" style="width: 35%"/>
         </div>
     </tr>
   
